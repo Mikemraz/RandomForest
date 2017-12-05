@@ -1,7 +1,7 @@
 # Random Forest
 random forest is a model that you can use to make predictions of the classification of the eadibility of certain mushroom.
 ## auththor
-** Liming Jiang **
+**Liming Jiang**
 email: Liming_Jiang@student.uml.edu
 ## quick start
 * to implement a Decision Tree
