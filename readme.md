@@ -25,11 +25,12 @@ email: Liming_Jiang@student.uml.edu
 
 ## frequent asked questions
 1. why is the result of Decision tree not constant given the same training and testing datasets?
+
 Answer: Because the "deep bootstrapping" approach is being used in the tree_growth method of Decision Tree class. And some randomness is introduced.
 
 2. What is "deep bootstrapping"?
-Answer: In top-down decision tree building
-process, at each node of the tree, we sample (with replacement) 75% of the training records that arrive at that node.
+
+Answer: In top-down decision tree building process, at each node of the tree, we sample (with replacement) 75% of the training records that arrive at that node.
 
 ## note
 1. please use python 3+ to implement model files.
